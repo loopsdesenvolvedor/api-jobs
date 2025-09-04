@@ -1,0 +1,20 @@
+{
+  "name": "api-jobs",
+  "version": "1.0.0",
+  "description": "Jobs website backend a job site",
+  "homepage": "https://github.com/loopsdesenvolvedor/api-jobs#readme",
+  "bugs": {
+    "url": "https://github.com/loopsdesenvolvedor/api-jobs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loopsdesenvolvedor/api-jobs.git"
+  },
+  "license": "MIT",
+  "author": "Elizeu Lopes",
+  "type": "commonjs",
+  "main": "indeX.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
