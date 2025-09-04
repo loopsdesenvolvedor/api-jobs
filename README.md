@@ -1,9 +1,7 @@
 # API-Rest do site Jobs
-
 Jobs é uma aplicação fullstack desenvolvida em JavaScript que oferece recursos de autenticação, cadastro de usuários e busca de vagas de emprego, conectando candidatos e empresas de forma simples e eficiente.
 
 ## Funcionalidades
-
 - Cadastro e autenticação de usuários (candidatos e empresas)
 - Publicação de vagas de emprego
 - Busca e filtro de vagas
@@ -26,5 +24,12 @@ Jobs é uma aplicação fullstack desenvolvida em JavaScript que oferece recurso
 - [Figma](https://www.figma.com/design/o0NF1UaJRxLkJYn85h1ehR/jobs?node-id=0-1&p=f&t=qd7vS5fiqXmED4fV-0) – Design da interface
 - [Git](https://git-scm.com/) – Controle de versão
 
+## Aviso
+As logos e marcas exibidas neste projeto são utilizadas **apenas para fins educacionais e demonstrativos**.  
+Todos os direitos sobre essas marcas pertencem exclusivamente aos seus respectivos proprietários.
 
-### Continua...![JOBS DESKTOP](https://github.com/user-attachments/assets/5c801cf7-1d1c-41cb-8350-b4fbe96ce261)
+
+
+### Continua...
+
+![JOBS DESKTOP](https://github.com/user-attachments/assets/5c801cf7-1d1c-41cb-8350-b4fbe96ce261)
