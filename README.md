@@ -32,4 +32,5 @@ Todos os direitos sobre essas marcas pertencem exclusivamente aos seus respectiv
 
 ### Continua...
 
-![JOBS DESKTOP](https://github.com/user-attachments/assets/5c801cf7-1d1c-41cb-8350-b4fbe96ce261)
+![novo](https://github.com/user-attachments/assets/44cac25b-731d-4fdc-8948-400d1898e5a6)
+
